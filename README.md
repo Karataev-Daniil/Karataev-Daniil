@@ -1,6 +1,6 @@
 ### Hi, I'm Daniil
 
-Middle Front-end Developer from Chișinău, Moldova. In production since 2024 with 4 companies, 17 commercial websites and two products of my own.
+Middle Front-end Developer from Chișinău, Moldova. In production since 2024 with 4 companies and 19 commercial websites, two of them my own products.
 
 - Main developer of [maximum.md](https://maximum.md) at RocketSEO (Next.js 14, TypeScript, Apollo Client, next-intl), with over half of all commits since March 2026
 - Custom WordPress themes for agency clients (ACF Pro, WPML, WooCommerce)
